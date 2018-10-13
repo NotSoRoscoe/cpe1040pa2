@@ -15,3 +15,4 @@ if __name__ == "__main__":
     # def cap_join(my_list):
     #     new_string = " ".join([my_list[word].capitalize() for word in range(len(my_list))])
     #     return new_string
+
